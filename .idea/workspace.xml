@@ -2,279 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7916171a-d0d6-4abd-8c9e-cab797a0903a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phpbot.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/set.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/.Mime" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/.State" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Bin/Pp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Documentation/En/Index.xyl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Documentation/Fr/Index.xyl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Exception/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Exception/FinalStateHasNotBeenReached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Exception/IllegalToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Exception/Lexer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Exception/Rule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Exception/UnexpectedToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Exception/UnrecognizedToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Ll1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Lexer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Llk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Llk.pp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Analyzer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Choice.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Concatenation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Ekzit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Entry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Invocation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Repetition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Rule.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Rule/Token.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Sampler/BoundedExhaustive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Sampler/Coverage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Sampler/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Sampler/Sampler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/Sampler/Uniform.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Llk/TreeNode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Test/Unit/Documentation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Test/Unit/Llk/Llk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Test/Unit/Llk/Soundness.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/Visitor/Dump.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/compiler/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/.State" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Bin/Resolve.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Bin/Uuid.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Bin/Welcome.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Consistency.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Event.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Parameter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/Protocol.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/core/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Directory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Exception/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Exception/FileDoesNotExist.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Finder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Generic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Link/Link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Link/Read.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Link/ReadWrite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Link/Write.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Read.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/ReadWrite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/SplFileInfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Temporary/Read.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Temporary/ReadWrite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Temporary/Temporary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Temporary/Write.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Watcher.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/Write.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/file/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/.State" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Aggregate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Append.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/CallbackFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/CallbackGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Counter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Demultiplexer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Directory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/FileSystem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Glob.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Infinite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Iterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/IteratorIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Limit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Lookahead.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Lookbehind.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Map.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Mock.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Multiple.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/NoRewind.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Outer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/CallbackFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/Directory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/Filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/Iterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/Map.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/Mock.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/Recursive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Recursive/RegularExpression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/RegularExpression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Repeater.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Seekable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/SplFileInfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Append.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/CallbackFilter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/CallbackGenerator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Counter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Demultiplexer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Directory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/FileSystem.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Infinite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/IteratorIterator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Limit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Lookahead.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Lookbehind.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Map.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Mock.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Multiple.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/NoRewind.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/RegularExpression.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/Repeater.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/Test/Unit/SplFileInfo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/iterator/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/.State" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Arithmetic.pp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Bin/Calc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Combinatorics/Arrangement.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Combinatorics/Combination/CartesianProduct.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Combinatorics/Combination/Combination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Combinatorics/Combination/Gamma.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Combinatorics/Counting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Combinatorics/FiniteSet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Combinatorics/Permutation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Context.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Exception/AlreadyDefinedConstant.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Exception/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Exception/UnknownConstant.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Exception/UnknownFunction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Exception/UnknownVariable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Sampler/Random.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Sampler/Sampler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Test/Unit/Arithmetic.pp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Test/Unit/Combinatorics/Combination/CartesianProduct.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Test/Unit/Combinatorics/Combination/Combination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Test/Unit/Combinatorics/Combination/Gamma.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Test/Unit/Context.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Test/Unit/Sampler/Random.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Test/Unit/Visitor/Arithmetic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Util.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/Visitor/Arithmetic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/math/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/.State" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/Grammar.pp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/Visitor/Isotropic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/regex/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Bucket.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Composite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Context.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Filter/Basic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Filter/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Filter/Filter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Filter/LateComputed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Bufferable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/In.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Lockable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Out.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Pathable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Pointable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Statable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Structural.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/IStream/Touchable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Stream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Wrapper/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Wrapper/IWrapper/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Wrapper/IWrapper/IWrapper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Wrapper/IWrapper/Stream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/Wrapper/Wrapper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/stream/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/.State" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Bin/Fromcode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Bin/Tocode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Documentation/En/Index.xyl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Documentation/Fr/Index.xyl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Test/Unit/Issue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Test/Unit/Search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Test/Unit/Ustring.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/Ustring.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/ustring/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/.State" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/Element.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/Test/Unit/Element.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/Test/Unit/Visit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/Visit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hoa/visitor/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/build/phpcs/ruleset.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Command.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Commands/CalcCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Commands/DateCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Commands/EchoCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Commands/HelpCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Commands/WeatherCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Commands/WhoamiCommand.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Entities/Chat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Entities/Entity.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Entities/Message.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Entities/Update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Entities/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Exception/TelegramException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/src/Telegram.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/structure.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/tests/Bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/tests/Unit/Commands/CalcCommandTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/tests/Unit/TelegramTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/longman/telegram-bot/tests/Unit/TestCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/set.php" afterPath="$PROJECT_DIR$/set.php" />
     </list>
     <ignored path="phpbot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -309,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/set.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -445,12 +174,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488914301966</updated>
-      <workItem from="1488914303782" duration="332000" />
+      <workItem from="1488914303782" duration="651000" />
     </task>
+    <task id="LOCAL-00001" summary="initialize">
+      <created>1488914663027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1488914663027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="332000" />
+    <option name="totallyTimeSpent" value="651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -486,6 +223,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialize" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -502,7 +243,7 @@
     <entry file="file://$PROJECT_DIR$/set.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
           <folding />
         </state>
       </provider>
